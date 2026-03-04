@@ -5,8 +5,8 @@
 <br/>
 
 <!-- GitHub Stats -->
-<img height="170" src="https://github-readme-stats-omega-virid-42.vercel.app/api?username=urielcookies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats-omega-virid-42.vercel.app/api/top-langs/?username=urielcookies&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats-omega-virid-42.vercel.app/api?username=urielcookies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" />
+<img height="170" src="https://github-readme-stats-omega-virid-42.vercel.app/api/top-langs/?username=urielcookies&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" />
 
 <br/>
 
